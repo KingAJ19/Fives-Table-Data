@@ -36,7 +36,7 @@ var myArray = [
         'name' : 'Latham', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
     {
-        'name' : 'Kirwin', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Kirwan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
     {
         'name' : 'Cullen', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
@@ -53,7 +53,9 @@ var myArray = [
     {
         'name' : 'Lyndon', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
-]
+    {
+        'name' : 'Leighton', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+    },
 
 
 buildTable(myArray)
