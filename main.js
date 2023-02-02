@@ -44,16 +44,19 @@ function buildTable(data) {
 $('th').on('click', function(){
     var column = $(this).data('column')
     var order = $(this).data('order')
-    console.log('Column was clicked', column, order)
+    var text = $(this).html()
+    text = text.substring(0, text.length - 1)
 
     if (order == 'desc') {
         $(this).data('order', 'asc')
         myArray = myArray.sort((a,b) => a[column] > b[column] ? 1 : -1)
+        text += '&#9660'
     } else {
         $(this).data('order', 'desc')
         myArray = myArray.sort((a,b) => a[column] < b[column] ? 1 : -1)
+        text += '&#9650'
     }
-
+    $(this).html(text)
     buildTable(myArray)
 })
 
