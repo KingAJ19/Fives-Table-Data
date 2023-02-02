@@ -1,24 +1,24 @@
 var myArray = [
     {
-        'name' : 'Calvin', 'goals' : '10', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Calvin', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Elan', 'goals' : '11', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Elan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Jesse', 'goals' : '50', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Jesse', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Matthew', 'goals' : '100', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Matthew', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Rynell', 'goals' : '20', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Rynell', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Tumi', 'goals' : '36', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Tumi', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Basla', 'goals' : '8', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Basla', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
 ]
 
