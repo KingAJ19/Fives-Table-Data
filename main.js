@@ -47,7 +47,6 @@ buildTable(myArray)
 // } 
 
 
-
 function buildTable(data) {
     var table = document.getElementById('myTable')
 
