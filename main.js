@@ -43,12 +43,12 @@ function buildTable(data) {
 $('th').on('click', function(){
     var column = $(this).data('column')
     var order = $(this).data('order')
-    console.log('Column was clicked')
+    console.log('Column was clicked', column, order)
 
     if (order == 'desc') {
-        
+        $(this).data('order', 'asc')
     } else {
-
+        $(this).data('order', 'desc')
     }
 })
 
