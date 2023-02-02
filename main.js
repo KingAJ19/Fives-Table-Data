@@ -40,6 +40,10 @@ function buildTable(data) {
 }
 
 
+$('th').on('click', function(){
+    console.log('Column was clicked')
+})
+
 function myFunction() {
     // Declare variables
     var input, filter, table, tr, td, i, txtValue;
