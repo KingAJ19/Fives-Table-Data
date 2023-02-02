@@ -3,22 +3,22 @@ var myArray = [
         'name' : 'Calvin', 'goals' : '10', 'assists' : '7', 'position' : 'ST'
     }, 
     {
-        'name' : 'Elan', 'goals' : '10', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Elan', 'goals' : '11', 'assists' : '7', 'position' : 'ST'
     }, 
     {
-        'name' : 'Jesse', 'goals' : '10', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Jesse', 'goals' : '50', 'assists' : '7', 'position' : 'ST'
     }, 
     {
-        'name' : 'Matthew', 'goals' : '10', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Matthew', 'goals' : '100', 'assists' : '7', 'position' : 'ST'
     }, 
     {
-        'name' : 'Rynell', 'goals' : '10', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Rynell', 'goals' : '20', 'assists' : '7', 'position' : 'ST'
     }, 
     {
-        'name' : 'Tumi', 'goals' : '10', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Tumi', 'goals' : '36', 'assists' : '7', 'position' : 'ST'
     }, 
     {
-        'name' : 'Basla', 'goals' : '10', 'assists' : '7', 'position' : 'ST'
+        'name' : 'Basla', 'goals' : '8', 'assists' : '7', 'position' : 'ST'
     }, 
 ]
 
@@ -27,6 +27,7 @@ buildTable(myArray)
 
 function buildTable(data) {
     var table = document.getElementById('myTable')
+    table.innerHTML = ''
 
     for ( var i = 0; i < data.length; i++) {
         var row = `<tr>
@@ -47,9 +48,13 @@ $('th').on('click', function(){
 
     if (order == 'desc') {
         $(this).data('order', 'asc')
+        myArray = myArray.sort((a,b) => a[column] > b[column] ? 1 : -1)
     } else {
         $(this).data('order', 'desc')
+        myArray = myArray.sort((a,b) => a[column] < b[column] ? 1 : -1)
     }
+
+    buildTable(myArray)
 })
 
 function myFunction() {
