@@ -39,7 +39,7 @@ buildTable(myArray)
 //         value = value.toLowerCase()
 //         var name = data[i].name.toLowerCase()
     
-//         if (name.startsWith(value)) {
+//         if (name.includes(value)) {
 //             filteredData.push(data[i])
 //         }
 //     }
