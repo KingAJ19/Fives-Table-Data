@@ -1,60 +1,60 @@
 var myArray = [
     {
-        'name' : 'Calvin', 'goals' : '0', 'assists' : '2', 'position' : 'ST'
+        'name' : 'Calvin', 'goals' : '0', 'assists' : '2', 'position' : 'GK'
     }, 
     {
         'name' : 'Elan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Jesse', 'goals' : '2', 'assists' : '1', 'position' : 'ST'
+        'name' : 'Jesse', 'goals' : '2', 'assists' : '1', 'position' : 'MID'
     }, 
     {
-        'name' : 'Matthew', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Matthew', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
     }, 
     {
         'name' : 'Rynell', 'goals' : '2', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Tumi', 'goals' : '1', 'assists' : '1', 'position' : 'ST'
+        'name' : 'Tumi', 'goals' : '1', 'assists' : '1', 'position' : 'MID'
     }, 
     {
-        'name' : 'Basla', 'goals' : '0', 'assists' : '1', 'position' : 'ST'
+        'name' : 'Basla', 'goals' : '0', 'assists' : '1', 'position' : 'MID'
     }, 
     {
-        'name' : 'Ethan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Ethan', 'goals' : '0', 'assists' : '0', 'position' : 'RW'
     },
     {
-        'name' : 'Jordan', 'goals' : '2', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Jordan', 'goals' : '2', 'assists' : '0', 'position' : 'RW'
     },
     {
-        'name' : 'Nahum', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Nahum', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
     },
     {
         'name' : 'Nathan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
     {
-        'name' : 'Latham', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Latham', 'goals' : '0', 'assists' : '0', 'position' : 'RW'
     },
     {
         'name' : 'Kirwan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
     {
-        'name' : 'Cullen', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Cullen', 'goals' : '0', 'assists' : '0', 'position' : 'MID'
     },
     {
-        'name' : 'Luke', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Luke', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
     },
     {
-        'name' : 'Anele', 'goals' : '0', 'assists' : '0', 'position' : 'CB'
+        'name' : 'Anele', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
     },
     {
-        'name' : 'Dillon', 'goals' : '0', 'assists' : '0', 'position' : 'CB'
+        'name' : 'Dillon', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
     },
     {
-        'name' : 'Lyndon', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Lyndon', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
     },
     {
-        'name' : 'Leighton', 'goals' : '1', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Leighton', 'goals' : '1', 'assists' : '0', 'position' : 'LW'
     },
     
 ]
