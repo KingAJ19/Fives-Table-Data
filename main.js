@@ -1,30 +1,30 @@
 var myArray = [
     {
-        'name' : 'Calvin', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Calvin', 'goals' : '0', 'assists' : '2', 'position' : 'ST'
     }, 
     {
         'name' : 'Elan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Jesse', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Jesse', 'goals' : '2', 'assists' : '1', 'position' : 'ST'
     }, 
     {
         'name' : 'Matthew', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Rynell', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Rynell', 'goals' : '2', 'assists' : '0', 'position' : 'ST'
     }, 
     {
-        'name' : 'Tumi', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Tumi', 'goals' : '1', 'assists' : '1', 'position' : 'ST'
     }, 
     {
-        'name' : 'Basla', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Basla', 'goals' : '0', 'assists' : '1', 'position' : 'ST'
     }, 
     {
         'name' : 'Ethan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
     {
-        'name' : 'Jordan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Jordan', 'goals' : '2', 'assists' : '0', 'position' : 'ST'
     },
     {
         'name' : 'Nahum', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
@@ -45,16 +45,16 @@ var myArray = [
         'name' : 'Luke', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
     {
-        'name' : 'Anele', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Anele', 'goals' : '0', 'assists' : '0', 'position' : 'CB'
     },
     {
-        'name' : 'Dillon', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Dillon', 'goals' : '0', 'assists' : '0', 'position' : 'CB'
     },
     {
         'name' : 'Lyndon', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
     {
-        'name' : 'Leighton', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Leighton', 'goals' : '1', 'assists' : '0', 'position' : 'ST'
     },
     
 ]
