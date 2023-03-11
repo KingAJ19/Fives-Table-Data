@@ -51,7 +51,7 @@ var myArray = [
         'name' : 'Dillon', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
     },
     {
-        'name' : 'Lyndon', 'goals' : '0', 'assists' : '1', 'position' : 'DEF'
+        'name' : 'Lyndon', 'goals' : '1', 'assists' : '1', 'position' : 'DEF'
     },
     {
         'name' : 'Leighton', 'goals' : '1', 'assists' : '1', 'position' : 'LW'
