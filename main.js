@@ -1,9 +1,9 @@
 var myArray = [
     {
-        'name' : 'Calvin', 'goals' : '1', 'assists' : '3', 'position' : 'GK'
+        'name' : 'Calvin', 'goals' : '3', 'assists' : '3', 'position' : 'GK'
     }, 
     {
-        'name' : 'Elan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Elan', 'goals' : '0', 'assists' : '1', 'position' : 'ST'
     }, 
     {
         'name' : 'Jesse', 'goals' : '3', 'assists' : '1', 'position' : 'MID'
@@ -24,7 +24,7 @@ var myArray = [
         'name' : 'Ethan', 'goals' : '0', 'assists' : '0', 'position' : 'RW'
     },
     {
-        'name' : 'Jordan', 'goals' : '4', 'assists' : '0', 'position' : 'RW'
+        'name' : 'Jordan', 'goals' : '6', 'assists' : '2', 'position' : 'RW'
     },
     {
         'name' : 'Nahum', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
@@ -33,13 +33,13 @@ var myArray = [
         'name' : 'Nathan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
     },
     {
-        'name' : 'Latham', 'goals' : '0', 'assists' : '0', 'position' : 'RW'
+        'name' : 'Latham', 'goals' : '3', 'assists' : '1', 'position' : 'RW'
     },
     {
-        'name' : 'Kirwan', 'goals' : '0', 'assists' : '0', 'position' : 'ST'
+        'name' : 'Kirwan', 'goals' : '2', 'assists' : '1', 'position' : 'ST'
     },
     {
-        'name' : 'Cullen', 'goals' : '0', 'assists' : '0', 'position' : 'MID'
+        'name' : 'Cullen', 'goals' : '0', 'assists' : '2', 'position' : 'MID'
     },
     {
         'name' : 'Luke', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
@@ -51,13 +51,13 @@ var myArray = [
         'name' : 'Dillon', 'goals' : '0', 'assists' : '0', 'position' : 'DEF'
     },
     {
-        'name' : 'Lyndon', 'goals' : '1', 'assists' : '1', 'position' : 'DEF'
+        'name' : 'Lyndon', 'goals' : '1', 'assists' : '2', 'position' : 'DEF'
     },
     {
-        'name' : 'Leighton', 'goals' : '1', 'assists' : '1', 'position' : 'LW'
+        'name' : 'Leighton', 'goals' : '4', 'assists' : '2', 'position' : 'LW'
     },
     {
-        'name' : 'Adrian', 'goals' : '1', 'assists' : '1', 'position' : 'LW'
+        'name' : 'Adrian', 'goals' : '3', 'assists' : '2', 'position' : 'LW'
     },
     
 ]
