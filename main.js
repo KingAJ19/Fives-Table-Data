@@ -68,7 +68,7 @@ function buildTable(data) {
     var table = document.getElementById('myTable')
     table.innerHTML = ''
 
-    for (var i = 0; i < data.length; i++) {
+    for (var i = 0; i < data.length; i++) { 
         var row = `<tr>
                    <td>${data[i].name}</td>
                    <td>${data[i].goals}</td>
