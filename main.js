@@ -59,7 +59,7 @@ var myArray = [
     {
         'name': 'Adrian', 'goals': '6', 'assists': '2', 'position': 'LW'
     },
-
+ 
 ]
 
 buildTable(myArray) 
