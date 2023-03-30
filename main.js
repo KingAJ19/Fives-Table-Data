@@ -97,7 +97,7 @@ $('th').on('click', function () {
     }
     $(this).html(text)
     buildTable(myArray)
-})
+}) 
 
 function myFunction() {
     // Declare variables
