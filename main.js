@@ -77,7 +77,7 @@ function buildTable(data) {
                    </tr>`
         table.innerHTML += row
     }
-}
+} 
 
 
 $('th').on('click', function () {
