@@ -95,7 +95,7 @@ $('th').on('click', function () {
         myArray = myArray.sort((a, b) => a[column] < b[column] ? 1 : -1)
         text += '&#9650'
     }
-    $(this).html(text)
+    $(this).html(text) 
     buildTable(myArray)
 }) 
 
