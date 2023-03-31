@@ -76,7 +76,7 @@ function buildTable(data) {
                    <td>${data[i].position}</td>
                    </tr>`
         table.innerHTML += row
-    }
+    } 
 } 
 
 
