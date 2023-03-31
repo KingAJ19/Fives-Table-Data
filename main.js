@@ -96,7 +96,7 @@ $('th').on('click', function () {
         text += '&#9650'
     }
     $(this).html(text) 
-    buildTable(myArray)
+    buildTable(myArray) 
 }) 
 
 function myFunction() {
