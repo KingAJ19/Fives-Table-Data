@@ -1,24 +1,24 @@
 var myArray = [
     {
-        'name': 'Calvin', 'goals': '9', 'assists': '8', 'position': 'GK'
+        'name': 'Calvin', 'goals': '12', 'assists': '11', 'position': 'GK'
     },
     {
-        'name': 'Elan', 'goals': '3', 'assists': '1', 'position': 'ST'
+        'name': 'Elan', 'goals': '4', 'assists': '1', 'position': 'ST'
     },
     {
-        'name': 'Jesse', 'goals': '10', 'assists': '7', 'position': 'MID'
+        'name': 'Jesse', 'goals': '11', 'assists': '9', 'position': 'MID'
     },
     {
-        'name': 'Matthew', 'goals': '0', 'assists': '2', 'position': 'DEF'
+        'name': 'Matthew', 'goals': '1', 'assists': '3', 'position': 'DEF'
     },
     {
         'name': 'Rynell', 'goals': '18', 'assists': '1', 'position': 'ST'
     },
     {
-        'name': 'Tumi', 'goals': '6', 'assists': '4', 'position': 'MID'
+        'name': 'Tumi', 'goals': '10', 'assists': '5', 'position': 'MID'
     },
     {
-        'name': 'Basla', 'goals': '1', 'assists': '2', 'position': 'MID'
+        'name': 'Basla', 'goals': '3', 'assists': '2', 'position': 'MID'
     },
     {
         'name': 'Ethan', 'goals': '0', 'assists': '0', 'position': 'RW'
@@ -27,13 +27,13 @@ var myArray = [
         'name': 'Jordan', 'goals': '6', 'assists': '2', 'position': 'RW'
     },
     {
-        'name': 'Nahum', 'goals': '0', 'assists': '0', 'position': 'DEF'
+        'name': 'Nahum', 'goals': '0', 'assists': '1', 'position': 'DEF'
     },
     {
-        'name': 'Nathan', 'goals': '0', 'assists': '0', 'position': 'ST'
+        'name': 'Nathan', 'goals': '1', 'assists': '0', 'position': 'ST'
     },
     {
-        'name': 'Latham', 'goals': '6', 'assists': '3', 'position': 'RW'
+        'name': 'Latham', 'goals': '7', 'assists': '3', 'position': 'RW'
     },
     {
         'name': 'Kirwan', 'goals': '2', 'assists': '1', 'position': 'ST'
@@ -51,16 +51,16 @@ var myArray = [
         'name': 'Anele', 'goals': '1', 'assists': '0', 'position': 'DEF'
     },
     {
-        'name': 'Dillon', 'goals': '0', 'assists': '0', 'position': 'DEF'
+        'name': 'Dillon', 'goals': '0', 'assists': '2', 'position': 'DEF'
     },
     {
-        'name': 'Lyndon', 'goals': '2', 'assists': '5', 'position': 'DEF'
+        'name': 'Lyndon', 'goals': '4', 'assists': '5', 'position': 'DEF'
     },
     {
-        'name': 'Leighton', 'goals': '8', 'assists': '4', 'position': 'LW'
+        'name': 'Leighton', 'goals': '9', 'assists': '5', 'position': 'LW'
     },
     {
-        'name': 'Adrian', 'goals': '6', 'assists': '2', 'position': 'LW'
+        'name': 'Adrian', 'goals': '7', 'assists': '3', 'position': 'LW'
     },
  
 ]
