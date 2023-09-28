@@ -3,6 +3,12 @@ var myArray = [
         'name': 'Calvin', 'goals': '12', 'assists': '11', 'position': 'GK'
     },
     {
+        'name': 'Calvin', 'goals': '12', 'assists': '11', 'position': 'GK'
+    },
+    {
+        'name': 'Calvin', 'goals': '12', 'assists': '11', 'position': 'GK'
+    },
+    {
         'name': 'Elan', 'goals': '5', 'assists': '1', 'position': 'ST'
     },
     {
