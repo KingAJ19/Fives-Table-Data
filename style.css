@@ -22,3 +22,24 @@ th {
   .closebtn:hover {
     color: black;
   }
+
+  .alert2 {
+    padding: 20px;
+    background-color: #e5512f;
+    color: white;
+  }
+  
+  .closebtn1 {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .closebtn:hover {
+    color: black;
+  }
